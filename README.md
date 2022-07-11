@@ -1,3 +1,5 @@
 # practice-employee
 
-Сайт по созданию замера окон 
+
+
+Site to create measurement of windows on js
